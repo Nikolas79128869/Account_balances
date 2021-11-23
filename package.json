@@ -1,7 +1,7 @@
 {
   "name": "AccountBalances",
   "version": "1.0.0",
-  "description": Nikolas",
+  "description": "Nikolas",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
